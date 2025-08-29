@@ -14,7 +14,7 @@ HOLA SOY JULIANO !
 <hr>
 
 ```
-I-am-vishalmaurya@github
+Soy Julio-dpr
 -------------------------
 💻 Soy un Desarrollador Full Stack y Desarrollador de Machine Learning autodidacta.
 📚 Estoy estudiando actualmente en la Universidad tecnologica del Perú.
@@ -25,7 +25,7 @@ I-am-vishalmaurya@github
 🚩 Interesado en el desarrollo de aplicaciones Full Stack de Machine Learning.
 💖 En una relación complicada con las Redes Neuronales.
 🎵 Amo el R & B y la música urbana o contemporanea.
-
+```
 <hr>
 
 
